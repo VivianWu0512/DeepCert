@@ -76,7 +76,7 @@ LeNet Models:
 Example: mnist_cnn_lenet_tanh
 Example: mnist_cnn_lenet_nopool
 ```
-If you want to run CNN-Cert, you can refer to the README.md in folder "CNN-Cert-master". Our environment "deepcert" can also support CNN-Cert.
+If you want to run CNN-Cert, you can refer to https://github.com/AkhilanB/CNN-Cert.git. Our environment "deepcert" can also support CNN-Cert.
 
 If you want to run FROWN, you can use cnn_to_mlp.py to transfer pure cnns to mlps, then clone the tool FROWN:
 
